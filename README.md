@@ -1,3 +1,5 @@
+## MOVING OBJECT DETECTION
+
 ABOUT:
 
 This project focuses on real-time moving object detection using OpenCV. The system captures video frames from a webcam and processes them to identify motion through grayscale conversion, Gaussian blur, and frame differencing. A threshold is applied to create a binary image, and contour detection identifies moving regions. The system distinguishes between moving and static scenes, making it suitable for applications such as surveillance, security, and activity monitoring. The project offers a simple yet effective solution for real-time motion detection with potential applications in diverse environments.
